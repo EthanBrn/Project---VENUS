@@ -1,0 +1,41 @@
+ ____________________________________________________________
+ ____________________________________________________________
+||        ||     __      ||
+|| \\\\  || ||   //  \\\\    ||
+||  \\\\ || ||       ||    ||
+||   \\\\|| ||       //    ||
+||\\\\  \\\|| ||\\\\  ===|   //||
+|| \\\\  || || \\\\    \\\\ // ||
+|| ||  || || //    || \\\\ ||
+|| ||  || ||// \\\\__//  \\\\||
+                ||||  Hyb 3D
+   An Hybrid-Model 3D-code for Mars/Solar Wind Interaction
+   MARS3D : periodic bcs in Y and Z  open bcs in X
+ ____________________________________________________________
+ ____________________________________________________________
+                   start time : 16:38:08  date: 18/07/2024
+
+   Last BZR revision number:                           245
+   Compiler:                         intel fortran   20.21
+   Precision:                                       simple
+   HAVE_NO_PLANET:                                     Yes
+   HAVE_WAVE_TEST:                                      No
+   HAVE_NETCDF:                                        Yes
+   HAVE_DEbUG:                                          No
+   Compiling date:                             Jul 16 2024
+
+
+   Known problems:
+   1) 
+   2) 
+
+
+ ___________________ Selected Environment ___________________
+   Planet:            earth
+   Species:               1
+
+ ___________________ MPI informations _______________________
+   MPI version: 3.01
+   Machine: login2.viking2.yor.alces.netwo
+   MPI processus  =    4
+   MPI (Y,Z)-dims = ( 2, 2)                     
